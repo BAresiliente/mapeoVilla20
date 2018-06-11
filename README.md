@@ -2,4 +2,5 @@
 
 Visita la web del proyecto: [Mapeo Villa 20](https://baresiliente.github.io/mapeoVilla20/)
 
-<iframe width="100%" height="520" frameborder="0" src="https://buenosairesresiliente.carto.com/builder/124c8f03-5a52-4f16-95f1-9055cea47a6e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+[Mapa](<iframe width="100%" height="520" frameborder="0" src="https://buenosairesresiliente.carto.com/builder/124c8f03-5a52-4f16-95f1-9055cea47a6e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>)
+
