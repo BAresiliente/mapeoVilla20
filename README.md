@@ -12,4 +12,4 @@ CARTO: [Ir al mapa completo](https://buenosairesresiliente.carto.com/builder/124
 
 ### Mapa de relatos localizados
 
-<iframe src="https://sotmlatam.openstreetmap.co/mapero.php?id=757"></iframe>
+<iframe iframe width="100%" height="520" frameborder="0" src="https://sotmlatam.openstreetmap.co/mapero.php?id=757"></iframe>
