@@ -1,4 +1,4 @@
-## SISTEMATIZACIÓN DE ACTIVIDADES PROYECTO DE MAPEO VILLA 20
+## PRINCIPALES HALLAZGOS DE MAPEO COLABORATIVO DEL BARRIO 20
 
 ### Visualización en CARTO
 Recorrido de la fotocaminata realizada con la aplicación de Mapillary junto a más de 20 vecinas del barrio 20, de la Ciudad Autónoma de Buenos Aires. 
