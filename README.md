@@ -3,6 +3,8 @@
 Diagnóstico barrial para la creación de un mapa temático participativo sobre accesibilidad y movilidad urbana cotidiana de las mujeres, en clave a la vulnerabilidad y riesgos de uso del espacio y transporte público, a partir de casos y experiencias en la Villa 20.
 Este proyecto pretende relevar reportes ciudadanos y datos georreferenciados que den cuenta del estado de situación del barrio en términos de infraestructura, seguridad, viabilidad, y es a través de estos datos que se pueden generar las bases para propuestas sobre mejoras en la planeación y gestión de recursos territoriales.
 
+![Imagen del barrio](https://i.imgur.com/nhB2irz.jpg)
+
 ### Mapa colaborativo de movilidad, seguridad y género del Barrio 20
 Recorrido de la fotocaminata realizada con la aplicación de Mapillary junto a más de 20 vecinas del Barrio 20, de la Ciudad Autónoma de Buenos Aires. 
 <iframe width="720" height="520" frameborder="0" src="https://buenosairesresiliente.carto.com/builder/124c8f03-5a52-4f16-95f1-9055cea47a6e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
